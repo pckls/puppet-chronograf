@@ -14,8 +14,6 @@
 
 ## Usage
 
-The minimum configuration required is to provide the URL's of your InfluxDB server(s) and include some base config:
-
 ```
 include chronograf
 ```
